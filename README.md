@@ -1,3 +1,11 @@
+
+4.5 MB json data
+
+inline build time 1m 49s
+
+require build time 13s
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
